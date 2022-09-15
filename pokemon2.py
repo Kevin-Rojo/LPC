@@ -1,5 +1,5 @@
 import requests
-#
+#Cambio desde window 
 def get_pokemons (url='http://pokeapi.co/api/v2/pokemon-form/', offset=0):
     args = { 'offset':offset } if offset else {}
     

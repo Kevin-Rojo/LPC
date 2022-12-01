@@ -1,1 +1,0 @@
-# Scripting en bash

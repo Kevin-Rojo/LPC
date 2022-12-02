@@ -8,5 +8,3 @@
 
 1. scriptTask.ps1
 2. send_sysinfo.ps1
-
-### 
